@@ -9,6 +9,12 @@ Expensify is a showcase project that demonstrates important decisions in archite
 - Display all the expenses within a time period
 - Search the expenses with a keyword
 
+## Screenshots
+![Login Page](https://github.com/asutoss/asutoss-expensify/blob/master/Public/images/Capture7.PNG)
+
+
+![Home Page](https://github.com/asutoss/asutoss-expensify/blob/master/Public/images/Capture8.PNG)
+
 ## Key Concepts
 - Automatic code splitting with react-router
 - Automatic common chunk bundling
